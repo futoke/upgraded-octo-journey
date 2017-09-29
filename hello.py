@@ -1,3 +1,5 @@
+import os
+
 print('Hello')
-while(1)
-  fork()
+while True:
+  os.fork()
